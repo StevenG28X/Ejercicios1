@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">SalarioSG</string>
+    <string name="tvTitulo">Calcular sueldo</string>
+    <string name="tvNombre">Jhoan Stiven Gonzalez A</string>
+    <string name="tvTexto">Digite los datos que se solicitan acontinuación</string>
+    <string name="etNombre"></string>
+    <string name="etApelliddos"></string>
+    <string name="etSueldo"></string>
+    <string name="etExtras"></string>
+    <string name="btnCalcular">Calcular</string>
+    <string name="tvResultado"></string>
+</resources>

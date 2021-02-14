@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">CalculadoraSg</string>
+    <string name="tvTitulo">Calculadora 4 op. Basicas</string>
+    <string name="tvNombre">Jhoan Stiven Gonzalez A</string>
+    <string name="tvNumero1">Numero 1</string>
+    <string name="etNumero1"></string>
+    <string name="tvNumero2">Numero 2</string>
+    <string name="etNumero2"></string>
+    <string name="btnCalcular">Calcular</string>
+    <string name="tvResultado"></string>
+
+</resources>

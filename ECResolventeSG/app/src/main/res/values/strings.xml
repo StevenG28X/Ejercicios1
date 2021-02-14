@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ECResolventeSG</string>
+    <string name="tvTitulo">Calculadora EC resolvente</string>
+    <string name="tvNombre">Jhoan Stiven Gonzalez A</string>
+    <string name="tvNumeros">Digite los valores de a, b y c respectivamente</string>
+    <string name="etNumeroa"></string>
+    <string name="etNumerob"></string>
+    <string name="etNumeroc"></string>
+    <string name="btnCalcular">Calcular</string>
+    <string name="tvResultado"></string>
+
+</resources>
